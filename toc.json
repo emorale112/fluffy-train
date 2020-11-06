@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "Introduction",
+      "uri": "docs/Intro.md"
+    },
+    {
+      "type": "item",
+      "title": "Rides",
+      "uri": "docs/Rides.md"
+    },
+    {
+      "type": "item",
+      "title": "Exceptions",
+      "uri": "docs/Exceptions.md"
+    },
+    {
+      "type": "item",
+      "title": "CHANGELOG",
+      "uri": "CHANGELOG.md"
+    },
+    {
+      "type": "divider",
+      "title": "Tutoriel d'implémentation"
+    },
+    {
+      "type": "item",
+      "title": "Getting Started",
+      "uri": "docs/Tutoriel-implémentation/Getting-Started.md"
+    },
+    {
+      "type": "item",
+      "title": "Webhooks",
+      "uri": "docs/Webhooks.md"
+    },
+    {
+      "type": "item",
+      "title": "README",
+      "uri": "README.md"
+    },
+    {
+      "type": "divider",
+      "title": "Models"
+    },
+    {
+      "type": "item",
+      "title": "ride",
+      "uri": "docs/models/ride/ride-full.v1.json"
+    }
+  ]
+}
